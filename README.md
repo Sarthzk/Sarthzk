@@ -1,6 +1,6 @@
 # Sarthak Mohite
 
-Third-year CS student at DYPIT, Pune. I build full-stack and AI-powered apps — mostly with React, FastAPI, and LLM APIs.
+Third-year CS student at DYPIT, Pune. I build full-stack and AI-powered apps — mostly with React, Java Springboot, Python and LLM APIs.
 
 ---
 
