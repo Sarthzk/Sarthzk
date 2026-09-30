@@ -10,7 +10,6 @@ Third-year Computer Engineering student at DYPIT, Pune (SPPU · GPA 8.5). I buil
 |---|---|---|
 | **[Roastify](https://github.com/Sarthzk/Roastify)** · [live](https://roastify-two.vercel.app/) | AI profile roaster for GitHub, LinkedIn, Instagram and resumes. Streams roasts over SSE, secures user data with Supabase Auth + Postgres RLS, rate-limits per IP and per account on Redis | React 19 · Groq (GPT-OSS 120B) · Supabase · Upstash Redis · Vercel |
 | **[Med-Sync](https://github.com/Sarthzk/medsync-rag)** | RAG assistant for medical reports: upload a PDF, ask questions, get answers grounded in your own documents | Next.js · TypeScript · FastAPI · LangChain · ChromaDB |
-| **[InvoiceFlow](https://github.com/Sarthzk/InvoiceFlow)** | Accounts-payable automation for Indian GST invoices: OCR extraction, GST/TDS validation, GSTR-2B reconciliation | Python · OCR · Excel · Power BI |
 | **[Financy](https://github.com/Sarthzk/financy-react)** | Personal finance tracker with real-time sync, multi-chart dashboards and CSV import/export | React · Firebase · Chart.js · Tailwind |
 
 ---
