@@ -1,31 +1,34 @@
 # Sarthak Mohite
 
-Third-year CS student at DYPIT, Pune. I build full-stack and AI-powered apps — mostly with React, Java Springboot, Python and LLM APIs.
+Third-year Computer Engineering student at DYPIT, Pune (SPPU · GPA 8.5). Ex-Software Engineering Intern at **Sarvaha Systems**, where I built a production-grade Spring Boot 3 file storage service. I build reliable backends and LLM-powered products.
 
 ---
 
-### Projects
+### Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Med-Sync](https://github.com/Sarthzk/medsync-rag) | RAG-powered medical document assistant — upload a PDF, ask questions, get grounded answers | Python · FastAPI · ChromaDB · OpenAI |
-| [Roastify](https://github.com/Sarthzk/Roastify) | AI profile roaster — paste a GitHub, LinkedIn, Instagram URL or resume and GPT-4o tears it apart | React · Vite · GPT-OSS · Vercel |
-| [Financy](https://github.com/Sarthzk/financy-react) | Personal finance tracker with real-time sync, multi-chart dashboards, and CSV import/export | React · Firebase · Chart.js · Tailwind |
+| **[Roastify](https://github.com/Sarthzk/Roastify)** · [live](https://roastify-two.vercel.app/) | AI profile roaster for GitHub, LinkedIn, Instagram and resumes. Streams roasts over SSE, secures user data with Supabase Auth + Postgres RLS, rate-limits per IP and per account on Redis | React 19 · Groq (GPT-OSS 120B) · Supabase · Upstash Redis · Vercel |
+| **[Med-Sync](https://github.com/Sarthzk/medsync-rag)** | RAG assistant for medical reports: upload a PDF, ask questions, get answers grounded in your own documents | Next.js · TypeScript · FastAPI · LangChain · ChromaDB |
+| **[InvoiceFlow](https://github.com/Sarthzk/InvoiceFlow)** | Accounts-payable automation for Indian GST invoices: OCR extraction, GST/TDS validation, GSTR-2B reconciliation | Python · OCR · Excel · Power BI |
+| **[Financy](https://github.com/Sarthzk/financy-react)** | Personal finance tracker with real-time sync, multi-chart dashboards and CSV import/export | React · Firebase · Chart.js · Tailwind |
 
 ---
 
 ### Stack
 
 ```
-Languages    Python  JavaScript  SQL            Java
-Frontend     React   Next.js     Tailwind CSS   Vite
-Backend      FastAPI REST APIs   Supabase       Springboot
-AI / LLM     RAG     ChromaDB    OpenAI API     Prompt Engineering
-Tools        Git     Vercel      VS Code        LangChain
+Languages    Java        Python      JavaScript    TypeScript    SQL
+Backend      Spring Boot FastAPI     JPA/Hibernate Resilience4j  REST APIs
+Data         PostgreSQL  Redis       Caffeine      Supabase      ChromaDB
+AI / LLM     RAG         LangChain   OpenAI        Groq          Prompt Engineering
+Frontend     React       Next.js     Tailwind CSS  Vite
+Testing      JUnit 5     Mockito     Testcontainers JaCoCo
+Tools        Git         Docker      Vercel        IntelliJ      VS Code
 ```
 
 ---
 
 ### Reach me
 
-[mohitesarthak74@gmail.com](mailto:mohitesarthak74@gmail.com) · [LinkedIn](https://linkedin.com/in/sarthak-mohite-508408377)
+[mohitesarthak74@gmail.com](mailto:mohitesarthak74@gmail.com) · [LinkedIn](https://linkedin.com/in/sarthak-mohite-508408377) · Open to Summer 2027 SDE internships
