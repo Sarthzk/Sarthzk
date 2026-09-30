@@ -1,6 +1,6 @@
 # Sarthak Mohite
 
-Third-year Computer Engineering student at DYPIT, Pune (SPPU · GPA 8.5). Ex-Software Engineering Intern at **Sarvaha Systems**, where I built a production-grade Spring Boot 3 file storage service. I build reliable backends and LLM-powered products.
+Third-year Computer Engineering student at DYPIT, Pune (SPPU · GPA 8.5). I build Java/Spring Boot backends and LLM-powered products.
 
 ---
 
