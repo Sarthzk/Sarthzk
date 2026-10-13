@@ -17,7 +17,7 @@ Third-year Computer Engineering student at DYPIT, Pune (SPPU · GPA 8.5). I buil
 ### Stack
 
 ```
-Languages   Java · Python · TypeScript · SQL
+Languages   Java · Python · JavaScript · SQL
 Backend     Spring Boot · FastAPI · PostgreSQL · Redis
 AI / LLM    RAG · LangChain · LLM APIs (OpenAI, Groq)
 Frontend    React · Next.js
