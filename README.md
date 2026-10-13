@@ -17,13 +17,12 @@ Third-year Computer Engineering student at DYPIT, Pune (SPPU · GPA 8.5). I buil
 ### Stack
 
 ```
-Languages    Java        Python      JavaScript    TypeScript    SQL
-Backend      Spring Boot FastAPI     JPA/Hibernate Resilience4j  REST APIs
-Data         PostgreSQL  Redis       Caffeine      Supabase      ChromaDB
-AI / LLM     RAG         LangChain   OpenAI        Groq          Prompt Engineering
-Frontend     React       Next.js     Tailwind CSS  Vite
-Testing      JUnit 5     Mockito     Testcontainers JaCoCo
-Tools        Git         Docker      Vercel        IntelliJ      VS Code
+Languages   Java · Python · TypeScript · SQL
+Backend     Spring Boot · FastAPI · PostgreSQL · Redis
+AI / LLM    RAG · LangChain · LLM APIs (OpenAI, Groq)
+Frontend    React · Next.js
+Testing     JUnit 5 · Testcontainers
+Infra       Docker · Vercel
 ```
 
 ---
